@@ -25,3 +25,6 @@ SQLAlchemy: Veritabanı işlemleri için.
 Docker: Projeyi daha kolay bir şekilde yönetmek ve taşımak için.
 
 Uygulama içi görseller:
+
+<img width="1918" height="862" alt="Ekran görüntüsü 2025-09-18 181528" src="https://github.com/user-attachments/assets/29f2ffe9-02e8-4a3b-b2ec-0e822fb8b8ce" />
+
