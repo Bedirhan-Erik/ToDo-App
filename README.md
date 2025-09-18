@@ -28,8 +28,8 @@ Uygulama içi görseller:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/29f2ffe9-02e8-4a3b-b2ec-0e822fb8b8ce" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/29f2ffe9-02e8-4a3b-b2ec-0e822fb8b8ce" width="450"></td>
     <td><img src="https://github.com/user-attachments/assets/85e8f66b-5f30-4cc2-94cb-3a667ce8bad9" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/4db28c04-2d9d-4a1f-b037-d44b4075f3ef" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/4db28c04-2d9d-4a1f-b037-d44b4075f3ef" width="450"></td>
   </tr>
 </table>
