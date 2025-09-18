@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": "100", "title": "a title","deadline":"07.30.2025" ,"views": 100 },
+    { "id": "101", "title": "another title","deadline":"07.30.2025" ,"views": 200 },
+    {"id":"102", "title":"second title", "deadline":"07.30.2025", "views":300}
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
