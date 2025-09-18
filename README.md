@@ -27,4 +27,7 @@ Docker: Projeyi daha kolay bir şekilde yönetmek ve taşımak için.
 Uygulama içi görseller:
 
 <img width="800" height="300" alt="Ekran görüntüsü 2025-09-18 181528" src="https://github.com/user-attachments/assets/29f2ffe9-02e8-4a3b-b2ec-0e822fb8b8ce" />
+<img width="516" height="495" alt="Ekran görüntüsü 2025-09-18 181406" src="https://github.com/user-attachments/assets/85e8f66b-5f30-4cc2-94cb-3a667ce8bad9" />
+<img width="1867" height="859" alt="Ekran görüntüsü 2025-09-18 181342" src="https://github.com/user-attachments/assets/4db28c04-2d9d-4a1f-b037-d44b4075f3ef" />
+
 
